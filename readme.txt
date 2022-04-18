@@ -1,7 +1,7 @@
 `=== Paid Memberships Pro - Social Locker Add On ===
-Contributors: scottsousa, strangerstudios
+Contributors: strangerstudios
 Tags: pmpro, paid memberships pro, social locker
-Requires at least: 3.0
+Requires at least: 5.2
 Tested up to: 4.9.5
 Stable tag: .1.1
 

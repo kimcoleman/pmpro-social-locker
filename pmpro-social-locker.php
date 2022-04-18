@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Paid Memberships Pro - Social Locker Add On
-Plugins URI: https://www.paidmembershipspro.com/add-ons/pmpro-social-locker/
+Plugin URI: https://www.paidmembershipspro.com/add-ons/pmpro-social-locker/
 Description: Integrate PMPro with the Social Locker plugin from OnePress.
 Version: .1.1
-Author: Scott Sousa, Paid Memberships Pro
+Author: Paid Memberships Pro
 Author URI: https://www.paidmembershipspro.com
 */
 
